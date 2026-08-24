@@ -7,4 +7,4 @@ Hello everyone, my name is Maxwell McFarlane, I am a mechanical engineering stud
 
 # Overview
 
-This website will act a record of my time during MEGR 2156 3D lab. I will put all my lab assignments here, including the learnings of 3D printing and likewise processes taught by this course. All mistakes will also be documented as a reflection of what I can improve on along the way. See the "Labs" tab to see my works.
+This website will act a record of my time during MEGR 2156 3D lab. I will put all my lab assignments here, including the learnings of 3D printing and likewise processes taught by this course. All mistakes will also be documented as a reflection of what I can improve on along the way. See the "Labs" tab to see my works. See the "About Me" tab to learn more about me, the creator of this portfolio.
