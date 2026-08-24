@@ -1,5 +1,3 @@
-## About Me
-
 <img width="320" height="180" alt="img_selfie" src="https://github.com/user-attachments/assets/b4a13486-4801-4910-b4d4-e8f32db853ef" />
 
 I am Maxwell McFarlane.
