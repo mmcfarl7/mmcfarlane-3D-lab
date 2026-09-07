@@ -36,13 +36,32 @@ As you can see, I chose the most basic and simple shapes with the simplest face 
 
 <img width="400" height="570" alt="IMG_2342" src="https://github.com/user-attachments/assets/b194d384-e98d-4ba9-8b6a-e60f6d049619" />
 
+Unfortunetely the only mistake made during the printing process was when printing was started it was discovered too late that the spool of PETG filament was actually stuck and wasn't going through like it was supposed to, causing a complete lack of printing you can see in an image under Lessons Learned.
 ## Print
+Stipulations: 1.5 inch by 1.5 inch length and width by 0.35 inch height. No overhangs or supports needed, PETG filament, and a total print time of 35 minutes (15 for my print individually).
+
+https://github.com/user-attachments/assets/363b04ec-a36c-468c-b626-f8c4ffccd675
+
+https://github.com/user-attachments/assets/89b177ba-1dd1-4c72-9a13-aa59b63024fc
+
+
 
 ## Lessons Learned
+
+Once again, the issue occurred of the time being so long I couldn't stick around to collect my printed product until Tuesday the 8th of September. The issue wasn't so much as design or detailing this time as it was simply the error of the 3D printer. The issue this time had to do with the filament getting caught and thus not feeding into the nozzle correctly. It took a total of 50+ minutes since the error occurred roughly 10 minutes after the initial print began. 
+
+If I scaled this model up to something important the consequences of getting it wrong would be absolutely detrimental to people's safety or it would risk causing minimal to extensive damage as well as a factor of risk towards the environment or surrounding people. (all damage is "expensive" for legal or civil purposes). It also risks the engineer's reputation as well.
+
+The mistake caught was the spool getting caught early in the initial printing attempt. One flaw in the design process that could have gone to the print undetected is not hitting the "save changes" button which would've caused me to send an incomplete design to the printer I wouldn't have learned until the print was done or almost done and you could visibly see the changes between the final product and the design.
+
+This project connects to a real-world product like a kid's playground equipment, which requires correct infill and wall thicknesses to protect the equipment from all sorts of forces the kids will expel onto the equipment. For example, if a children's slide had a wall thickness that is too thin or hollow it would break under the child's weight. Another example is if the incorrect plastic material was used on the equipment instead of the stronger plastics then children can risk getting hurt on easily splintering plastic or the plastic will wear away under weathering conditions other plastics could withstand.
+
+<img width="300" height="400" alt="IMG_9911" src="https://github.com/user-attachments/assets/bfbb0dce-94ed-424c-8942-2c9cb872cd8b" />
+
 
 <img width="400" height="500" alt="IMG_2336" src="https://github.com/user-attachments/assets/77b630da-f42b-44f7-a30a-38dc42374a9e" />
 
 ## Resources
 
-Google.com
-
+Google.com    (for research)
+https://www.freeconvert.com/mov-to-mp4          (used for videos)
