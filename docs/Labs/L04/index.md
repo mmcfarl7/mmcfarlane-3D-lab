@@ -51,7 +51,9 @@ As you can see in the images provided above, the print was a success to a degree
 
 While there are many factors as to why my results matched the guidelines, it's difficult to say exactly which factor had the most part. The nozzle might've been too wide, the printer might've had a blip or an error and thus made the holes too wide, for all I know there is human error in my test and I could've overlooked something. I believe that I covered all grounds, but the fact is that while something may design to fit together on paper, it doesn't work like that with printed filaments because you're melting something and expecting it to make a perfect shape, which isn't realistic.
 
-A mistake I made along the way was reaching a hiccup when starting a print. I accidentally used the wrong label in the G-code to put PLA instead of PETG, which would've resulted in a horrible collapse or a disastrous print since PETG and PLA are two completely different filaments. It would've been like using ink instead of pencil on a scantron sheet, it just wouldn't work out for most jobs. After all this was said and done, this whole project took me 3-4 hours over the span of 3 different days to complete from design to printing to coding this portfolio.
+A mistake I made along the way was reaching a hiccup when starting a print. I accidentally used the wrong label in the G-code to put PLA instead of PETG, which would've resulted in a horrible collapse or a disastrous print since PETG and PLA are two completely different filaments. It would've been like using ink instead of pencil on a scantron sheet, it just wouldn't work out for most jobs. Another mistake is the text on the final print, which isn't neat or clean. Next time I should widen the numbers and letters, so the printed filament won't accidentally stick together and end up looking like the mess you see in the image above.
+
+After all this was said and done, this whole project took me 3-4 hours over the span of 3 different days to complete from design to printing to coding this portfolio.
 
 ## Resources
 
