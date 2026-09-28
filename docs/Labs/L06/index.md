@@ -60,15 +60,42 @@ Final Model Tree of progress including all the mirroring done for the dimensions
 
 Using Prusa Slicer, I uploaded the G-Code to a thumb drive and used a Prusa Core ONE printer with a 0.4mm nozzle. I used orange PLA filament and printed out my final model, which was roughly one and a half inches in diameter and two and a half inches in height. I used the default settings on the print including 15% infill and a rectilinear infill pattern. The printing itself had one minor hiccup where I originally used a faulty printer that wasn't feeding filament correctly, so I had to switch printers and try again after a quick catch. Otherwise, the printing went through smoothly and originally, I was worried the painted organic supports would mess with the final print, but to my surprise they not only were super easy and clean to remove, but they also barely affected the final model at all aside from one little clump on a peg, but otherwise, the model was complete and as you can observe below in both the video and images, you can follow the G-code of the print and the printing process to the final product.
 
+<img width="900" height="700" alt="Screenshot 2026-09-24 135600" src="https://github.com/user-attachments/assets/42dca8fa-2396-41b0-b34e-96c58468ec3c" />
+
+Initial printing G-Code. As you can see, I originally was going to print the model in an incorrect position, facing upward where the printing layers would be horizontal instead of vertical, which would only apply more strain to the pegs and possibly lead to snapping. The supports from automatic painting were also unreliable so I altered the printing to as shown below.
+
+<img width="900" height="778" alt="Screenshot 2026-09-27 211410" src="https://github.com/user-attachments/assets/95b2dc3e-0c85-4511-81ea-5559c24196f0" />
+
+Here I readjusted the position of the model and then applied organic supports instead of rectangular ones. I wasn't confident in the automatic painting options so I adjusted the design again as shown below.
+
+<img width="900" height="794" alt="Screenshot 2026-09-27 211720" src="https://github.com/user-attachments/assets/9c2c596f-ce26-4673-a731-103352a9ae81" />
+
+Final chosen G-Code with full organic supports along the model.
+
+<img width="900" height="768" alt="Screenshot 2026-09-27 211423" src="https://github.com/user-attachments/assets/d98fa376-4c2d-415d-840b-affed1043154" />
+
+Support Data.
+
+
+https://github.com/user-attachments/assets/b34bea44-ea23-44ab-8cd5-b9d06015ef8a
+
+Video of printing process (Note: I just stopped the previous print due to a faulty printer not having a stable filament supply, so that explains why I stated Attempt 2 in the video).
+
 <img width="400" height="500" alt="IMG_2629" src="https://github.com/user-attachments/assets/613db6f5-d938-446b-a94e-7a3533026f34" />
+
+Printing Process
 
 <img width="400" height="500" alt="IMG_2630" src="https://github.com/user-attachments/assets/f664213b-6328-408d-82e2-390a359d8914" />
 
+Finished print.
+
 <img width="400" height="500" alt="IMG_2631" src="https://github.com/user-attachments/assets/678f5628-bd48-4e62-8025-d9580f0b0648" />
+
+Removed organic supports (surprisingly clean).
 
 <img width="400" height="500" alt="IMG_2632" src="https://github.com/user-attachments/assets/ae0ffd70-c8f1-46a6-8aa3-ffb09080b819" />
 
-
+Final Model in physical form.
 
 
 ## Lessons Learned/Resources
