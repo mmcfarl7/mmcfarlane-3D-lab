@@ -27,4 +27,25 @@ While I do not have sketches, I do have the design process in Creo. I took a 6 b
 <img width="626" height="560" alt="Screenshot 2026-10-19 110432" src="https://github.com/user-attachments/assets/7577cf04-2b0d-460b-99d6-bddae16be500" />
 
 ## Printing and Video
+For the final printing, I realized an error of making the parts 6 by 6-inches which was too much for the printer to handle, even so it would've been HOURS of printing, which I didn't approve of. So, I edited my design to be only 4 by 4 inches via the "Scale" tool in Prusa slicer. I decided to print all 4 objects, the box and the lid and the 2 coasters, into 2 separate printers to save time. One thing I would've changed if I could've gone back is changed the print pattern and infill on the coasters from "Lightning" (chosen for speed) to "Gyroid" which would've been more supportive and maybe bump up the percentage of the infill from 10 to 30 percent. These things wouldn't have mattered for the box since it doesn't need to support a full glass of a drink, which will put a big load on the coaster and the infill supports inside. Full video and photos of the data from printing and for printing is shown below:
 
+- Total Time: 3.5-4 hours. 
+
+<img width="730" height="494" alt="Screenshot 2026-10-19 122635" src="https://github.com/user-attachments/assets/d7d4ce0e-b3b0-415d-a2ad-4863a2348a73" />
+<img width="738" height="488" alt="Screenshot 2026-10-19 112053" src="https://github.com/user-attachments/assets/a1890f2a-902a-46b8-bd25-163f1e18f65f" />
+<img width="686" height="225" alt="Screenshot 2026-10-19 112002" src="https://github.com/user-attachments/assets/fa016435-5732-43d8-ae65-9fdf13705709" />
+<img width="384" height="312" alt="IMG_2802" src="https://github.com/user-attachments/assets/92cb0070-eb6c-4a69-9d30-668d2bb56e0f" />
+<img width="384" height="312" alt="IMG_2804" src="https://github.com/user-attachments/assets/94fea0fe-4e84-4183-9eee-4fcee62edd83" />
+<img width="324" height="332" alt="IMG_2807" src="https://github.com/user-attachments/assets/e129b922-c494-492b-bef9-7e58b3ccbc64" />
+<img width="384" height="312" alt="IMG_2808" src="https://github.com/user-attachments/assets/ce21d65b-e383-44db-8c75-c79e88fadc19" />
+
+
+https://github.com/user-attachments/assets/08375d75-8b16-4d78-af5d-d0d1a401bcf5
+
+
+## Lessons Learned
+In the end, I was quite happy with my results and the reaction from my mother was joyous and flattered. I was more than proud of the final results, but I do wish that if I had a second chance, I would've changed the parameters of the infill for the coasters to be stronger, but upon testing they did seem to function without any visible or audible strain. Further refinements are likely. 
+
+
+Resoureces: https://www.freeconvert.com/mov-to-mp4 (for video conversion)
+Total time: 3.5 to 4 hours
