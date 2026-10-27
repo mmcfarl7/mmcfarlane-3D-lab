@@ -19,15 +19,20 @@ The design was ready, but before we continue, I'd like to mention a side note th
 
 Above you can see the Epilog program and the laser cutter I was using. A video will be attached in the tab below. A key note to be aware of is that I had some trouble setting up the printer to my computer due to my drivers being out of date, but after a quick fix the workers at the super fab lab were able to amend this issue and get me cutting.
 
-## Laser Cutting and Assembly
+## Laser Cutting
 
+https://github.com/user-attachments/assets/0de9a1bd-4eb5-4c70-9dfb-4e6b4c922aca
 
+Now, if you watched the video, allow me to tell you the safety steps BEFORE you hit the big red button... First: vents and ducts open to suck the dangerous fumes and bad smell away. Second: compressor and fan ON. Third: make sure everything in its place securely and that the laser is focused and on the RIGHT MATERIAL. As it would turn out what happened to cause all that smoke in the video was that step 1 was NOT followed even though I swore to God I did that because it was the first thing I did. But as you saw in the video, I realized what happened. You see, what happened before the cutting was the issue with setting up the printer to my computer. While I was conversing with the lead supervisor at the time, another employee was attempting to shoot a safety video (ironically) on the laser cutter, in doing so he undid step 1 and part of step 2 that I had done beforehand, so he closed the vents and turned off the compressor. Despite the abundance of white smoke, it was fine, no fire was started, but it smelled like a hot campfire for a minute I'll tell you that much. Nobody got hurt and I'm thankful everything went fine but this is why it's very important that even if you step away for just a minute you should always check that everything on the safety checklist is marked off BEFORE hitting the big red button. 
 
+## Final Notes & Assembly
 
+<img width="784" height="912" alt="IMG_2858" src="https://github.com/user-attachments/assets/db79dfbd-4c1b-46ad-9f64-f35ae4dae9b5" />
 
+<img width="812" height="784" alt="IMG_2859" src="https://github.com/user-attachments/assets/31a6d656-e0b5-438c-9d59-ef29cef1041f" />
 
+As you can see from the materials above, the cutting was a success except for the initial cut on the circle led to an incomplete cut hole. Thanks to the supervisor at the super fab lab, he hid the other objects in the Inkscape and left only the circle. A quick 7 second cut. The only mistake I made, besides the obvious one above which I promise is not my fault, is that I designed the holes to be squares. 3 mm by 3 mm. I made the pegs 3 mm to make a slid fit that does work but... they're rectangular in shape due to the height of the board, thus they don't stick together like a real slide fit. Thankfully I have some wood glue and will fully assemble on a later date. Otherwise, for a first time, I approve of the laser cutting experience. 
 
+Total Time: ~4 to 4.15 hours
 
-
-## Final Notes
 
