@@ -67,13 +67,35 @@ Extrude safety wall:
 
 <img width="646" height="586" alt="Screenshot 2026-11-02 105811" src="https://github.com/user-attachments/assets/7080b199-4dd6-4132-ad72-cf6a347e7320" />
 
-## Printing
+## Printing & Post Processing
 
 Using Resin printers called a Form 4 and a Grey V5 resin material, I finished printing my model in about an hour and 22 minutes and then scraped off the supports and washed/cured the print in another 20 minutes. Thankfully there were no safety issues or any mistakes, but I do think my print did suffer some deformations on my part from clipping and scratching with my nails when attempting to remove the little stubs left behind by the supports. Overall, the finished product was adorable and despite it not standing due to the added weight by the stubs, it is still an adorable ornament.
 
+Program startup:
+
 <img width="1042" height="674" alt="Screenshot 2026-11-02 140124" src="https://github.com/user-attachments/assets/9892f395-13b2-455b-9fc0-3e2bc93e4bc1" />
 
+Printing Video:
 
+https://github.com/user-attachments/assets/3639911d-758b-41ca-822e-c390b25b1a89
 
+2nd Printing Video:
 
+https://github.com/user-attachments/assets/f0e462bb-1f64-47d2-a40a-100253e005dc
 
+Washing Station:
+
+https://github.com/user-attachments/assets/22035834-f143-4f16-8e6a-17da61f8edb5
+
+Curing Station: 
+
+<img width="812" height="684" alt="IMG_2914" src="https://github.com/user-attachments/assets/032f6f16-cbb3-4fdc-903f-9caa53f7a3db" />
+
+## Final Measurements
+
+Overall, the final measurements could've been a bit closer to the acceptable clearance and tolerances but the fit is snug and works to an acceptable degree.
+
+Digital Caliper Measurements for Shaft:  inches
+Digital Caliper Measurements for Hole:  inches
+
+Total time: 4.5 to 5 hours.
