@@ -98,4 +98,9 @@ Overall, the final measurements could've been a bit closer to the acceptable cle
 Digital Caliper Measurements for Shaft:  inches
 Digital Caliper Measurements for Hole:  inches
 
+## Lessons Learned
+
+I would've paid more attention to the softness of the material and the pain of removing the supports if I had known how soft and fragile the material can be when it is so small or thin. The biggest challenge was having to wait so long to test the fit, which turned out to fit decently. I would argue the possibility that curing or some step in the printing process like scaling down the print might've been a factor to why it took so long and why the fit might not be as accurate as in the CAD model. Next time just print at 100% and wait the hours it takes to properly test the RC 2 slide fit. 
+
 Total time: 4.5 to 5 hours.
+Total Materials: 3-4 ml of resin.
