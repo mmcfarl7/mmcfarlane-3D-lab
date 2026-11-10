@@ -92,4 +92,36 @@ Helictical sweep around upper arm.
 
 ## Printing
 
+The printing took just as long as the modeling, and unfortunate we reached some complications in the final processes before I got to test the final model.
 
+<img width="260" height="512" alt="Screenshot 2026-11-09 102811" src="https://github.com/user-attachments/assets/2d328948-b297-48ba-ad24-1a56fc1e0869" />
+
+The customized settings for the supports and rafts so it would take ~10 minutes less and use 2 ml less of resin since I was that much over the limit at a 0.9 scale to my initial design.
+
+<img width="1062" height="638" alt="Screenshot 2026-11-09 102800" src="https://github.com/user-attachments/assets/ccde7ca6-f053-45f7-86e5-7a26d884e609" />
+
+Final layout before printing.
+
+https://github.com/user-attachments/assets/4a00785f-779c-4e2b-bc04-a772a9841cf2
+
+Initial printing start-up.
+
+https://github.com/user-attachments/assets/9c6f4f31-54bf-42a5-ab3a-c5a05d8196f6
+
+Washing station.
+
+<img width="684" height="812" alt="IMG_2983" src="https://github.com/user-attachments/assets/4cfb156c-c504-47c9-936a-19c3febb7b49" />
+
+Final print with supports. 1 arm broke in the scraping process. I blame user error. :(
+
+<img width="624" height="832" alt="IMG_2984" src="https://github.com/user-attachments/assets/fd44c086-ad98-41b0-850c-6fd3efb875c1" />
+
+Final robot figure.
+
+## Lessons Learned
+
+This project took 4 hours and in that time, I learned that I need to thicken the walls of the shafts/slots to be much thicker as during the printing process they were too thin and fragile and possibly shrunk, leading to the head and 1 arm to not fit while both feet and an arm fitting just fine. Perhaps there is a science of bias to one side given the robot body's orientation?
+
+Another lesson learned is to be much more cautious with removal of supports or even setting up the supports since one of the arms broke into 2 pieces when I attempted support removal, but it had way too many supports for such a small piece, so it would've been difficult to break off either way.
+
+Total time: 4-5 hours.
